@@ -1,0 +1,172 @@
+\documentclass[compress]{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{color}
+\usepackage{colortbl}
+\usepackage{listings}
+\usepackage{caption}
+\usepackage{pgfpages}
+\usepackage{tabularx}
+\usepackage{amsthm}
+\usepackage{url}
+
+%\usetheme[basergb={1,0.2,0.2}]{Dcon}
+%\usetheme[baseRGB={23,102,34}]{Dcon}
+\usetheme{Dcon} % default color
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Definitions %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newcommand{\logotum}{\includegraphics[scale=0.9]{TUMINF.pdf}}
+\newcommand{\logoinf}{\includegraphics[scale=0.5]{IN_schwarz_CMYK.pdf}}
+
+\newcommand{\hl}[1]{\fcolorbox{red}{white}{#1}}
+\newcommand{\todo}[1]{\hl{TODO: #1...}}
+\newcommand{\review}[0]{\todo{REVIEW}}
+\newcommand{\comm}[1]{\textsuperscript{\bf \color{red}{\tiny [#1]}}}
+\newcommand{\q}[0]{\comm{?}}
+\newcommand{\s}[0]{\comm{*}}
+
+\newcommand{\scite}[1]{\textsuperscript{\tiny\cite{#1}}}
+
+\bibliographystyle{apalike}
+
+
+\titlegraphic{\logotum}
+\title[Intelligent Learning Framework]
+{Intelligent Support\\ \strut for non-linear Serious Games}
+\subtitle{\scriptsize{Bachelor's Thesis in Computer Science}}
+\author[Felix Kaser]{Felix Kaser\\\tiny{\texttt{kaserf@in.tum.de}}}
+\institute[TUM]
+{Chair for Applied Software Engineering\\
+Faculty of Informatics\\
+Technische Universit\"at M\"unchen}
+\date{July 1, 2010}
+\logo{\logoinf}
+\additionaltext{\tiny
+{Supervisor: Prof. Bernd Brügge, PhD.\\
+\hspace{7mm}Advisors: Dipl.-Inf. Univ. Dennis Pagano,\\
+\hspace{17.2mm}Dipl.-Inf. Univ. Damir Ismailović}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Document %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+% title page
+\begin{frame}[plain]
+\titlepage
+\end{frame}
+
+\begin{frame}{Outline}
+\tableofcontents
+\end{frame}
+
+\section{Introduction}
+
+\subsection{Problem Statement}
+
+\begin{frame}{Problem Statement}
+games, learning, politics, etc.
+\end{frame}
+
+\subsection{Serious Games}
+
+\begin{frame}{Overview}
+what are serious games?
+serious games are a bussines quote
+\end{frame}
+
+\subsection{Non Linear Games}
+
+\begin{frame}{Frame 3}
+What do I mean with non-linear games?\\
+What are the problems when supporting non-linear games?\\
+\end{frame}
+
+\begin{frame}{Examples}
+example of a serious game
+\begin{block}{Physics}
+block one
+\end{block}
+\begin{block}{Food Force}
+block two
+\end{block}
+\end{frame}
+
+\section{Intelligent Learning Framework}
+
+\subsection{Overview}
+
+\begin{frame}{Goals}
+show whats the goal of the framework
+\end{frame}
+
+\begin{frame}{Pedagogical Agents}
+short introduction of pedagogical agents
+\end{frame}
+
+\begin{frame}{Game - Framework Communication}
+how it connects with the game
+\end{frame}
+
+\subsection{From Actions To Problems}
+
+\begin{frame}{Use Cases}
+use cases
+\end{frame}
+
+\begin{frame}{Topology}
+topology action
+\end{frame}
+
+\begin{frame}{Action, Interaction, Event}
+interaction, event
+\end{frame}
+
+\begin{frame}{Flow of Events}
+flow of events through the system
+\end{frame}
+
+\begin{frame}{Problem Detection}
+pattern matching with state machine, regex, blurry match ---> object design
+\end{frame}
+
+\section{Outlook}
+
+\subsection{Future Work}
+
+\begin{frame}{Future Work}
+language to describe interactions and patterns\\
+use AI / machine learning to learn interactions and patterns\\
+extend the framework with above technologies\\
+test the framework with various games
+\end{frame}
+
+\subsection{OLPC}
+
+\begin{frame}{One Laptop Per Child}
+explain the project, whats the connection to ILF
+\end{frame}
+
+\begin{frame}{Developers Programme}
+how does it work, what do they expect, what do they provide
+\end{frame}
+
+
+
+\appendix
+\pagenumbering{Roman}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Appendix %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Bibliography}
+\begin{frame}[allowframebreaks]{Literature}
+\tiny{\bibliography{bibliography}}
+\end{frame}
+
+\section{Additional Material}
+\begin{frame}
+
+\end{frame}
+
+\end{document}
