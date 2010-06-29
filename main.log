@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.6.24)  26 JUN 2010 16:24
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.6.24)  30 JUN 2010 00:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1084,7 +1084,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 \c@lstlisting=\count175
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
- (./main.nav) <TUMINF.pdf, id=81, 53.24391pt x 96.73338pt>
+ (./main.nav) <TUMINF.pdf, id=108, 53.24391pt x 96.73338pt>
 File: TUMINF.pdf Graphic file (type pdf)
 
 <use TUMINF.pdf>
@@ -1108,23 +1108,40 @@ Overfull \vbox (1.93301pt too high) detected at line 58
 LaTeX Font Warning: Font shape `OT1/cmss/m/n' in size <4> not available
 (Font)              size <5> substituted on input line 62.
 
-<IN_schwarz_CMYK.pdf, id=108, 29.87532pt x 32.82382pt>
+<IN_schwarz_CMYK.pdf, id=140, 29.87532pt x 32.82382pt>
 File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
 
 <use IN_schwarz_CMYK.pdf> [1
 
  <./IN_schwarz_CMYK.pdf>]
-File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+LaTeX Font Info:    Try loading font information for OMS+cmss on input line 87.
 
+LaTeX Font Info:    No file OMScmss.fd. on input line 87.
+
+
+LaTeX Font Warning: Font shape `OMS/cmss/m/n' undefined
+(Font)              using `OMS/cmsy/m/n' instead
+(Font)              for symbol `textbullet' on input line 87.
+
+
+Overfull \vbox (4.45303pt too high) detected at line 87
+ []
+
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
 <use IN_schwarz_CMYK.pdf> [2
 
 ]
+Overfull \vbox (4.45303pt too high) detected at line 87
+ []
+
 File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
- <use IN_schwarz_CMYK.pdf> [3
+<use IN_schwarz_CMYK.pdf> [3
 
 ]
-File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+Overfull \vbox (4.45303pt too high) detected at line 87
+ []
 
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
 <use IN_schwarz_CMYK.pdf> [4
 
 ]
@@ -1141,11 +1158,14 @@ File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
  <use IN_schwarz_CMYK.pdf> [7
 
 ]
+<../latex/diagrams/games_taxonomy.pdf, id=411, 502.678pt x 189.508pt>
+File: ../latex/diagrams/games_taxonomy.pdf Graphic file (type pdf)
+
+<use ../latex/diagrams/games_taxonomy.pdf>
 File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf> [8
 
-<use IN_schwarz_CMYK.pdf> [8
-
-]
+ <../latex/diagrams/games_taxonomy.pdf>]
 File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
  <use IN_schwarz_CMYK.pdf> [9
 
@@ -1159,20 +1179,62 @@ File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
  <use IN_schwarz_CMYK.pdf> [11
 
 ]
+<images/Bridgependulum.jpg, id=790, 385.44pt x 289.08pt>
+File: images/Bridgependulum.jpg Graphic file (type jpg)
+
+<use images/Bridgependulum.jpg>
+<images/Housegolf.jpg, id=791, 513.92pt x 385.44pt>
+File: images/Housegolf.jpg Graphic file (type jpg)
+ <use images/Housegolf.jpg>
+<images/PhysicsNew3.png, id=792, 513.92pt x 385.44pt>
+File: images/PhysicsNew3.png Graphic file (type png)
+
+<use images/PhysicsNew3.png>
+<images/FoodForce2_Setup_Window.png, id=794, 1284.8pt x 803.0pt>
+File: images/FoodForce2_Setup_Window.png Graphic file (type png)
+
+<use images/FoodForce2_Setup_Window.png>
+<images/FoodForce2_Market.png, id=795, 1284.8pt x 803.0pt>
+File: images/FoodForce2_Market.png Graphic file (type png)
+
+<use images/FoodForce2_Market.png>
+<images/Foodforce-mp.png, id=796, 1284.8pt x 803.0pt>
+File: images/Foodforce-mp.png Graphic file (type png)
+
+<use images/Foodforce-mp.png>
 File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf> [12
 
-<use IN_schwarz_CMYK.pdf> [12
+ <./images/Bridgependulum.jpg> <./images/Housegolf.jpg> <./images/PhysicsNew3.p
+ng> <./images/FoodForce2_Setup_Window.png (PNG copy)> <./images/FoodForce2_Mark
+et.png (PNG copy)> <./images/Foodforce-mp.png (PNG copy)>]
+File: images/Bridgependulum.jpg Graphic file (type jpg)
+ <use images/Bridgependulum.jpg>
+File: images/Housegolf.jpg Graphic file (type jpg)
 
-]
+<use images/Housegolf.jpg>
+File: images/PhysicsNew3.png Graphic file (type png)
+ <use images/PhysicsNew3.png>
+File: images/FoodForce2_Setup_Window.png Graphic file (type png)
+
+<use images/FoodForce2_Setup_Window.png>
+File: images/FoodForce2_Market.png Graphic file (type png)
+ <use images/FoodForce2_Market.png>
+File: images/Foodforce-mp.png Graphic file (type png)
+
+<use images/Foodforce-mp.png>
 File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
  <use IN_schwarz_CMYK.pdf> [13
 
 ]
+<../latex/images/pedagogical_agent.jpeg, id=860, 639.38875pt x 478.78876pt>
+File: ../latex/images/pedagogical_agent.jpeg Graphic file (type jpg)
+
+<use ../latex/images/pedagogical_agent.jpeg>
 File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf> [14
 
-<use IN_schwarz_CMYK.pdf> [14
-
-]
+ <../latex/images/pedagogical_agent.jpeg>]
 File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
  <use IN_schwarz_CMYK.pdf> [15
 
@@ -1182,33 +1244,334 @@ File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
 <use IN_schwarz_CMYK.pdf> [16
 
 ]
-No file main.bbl.
 File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
-<use IN_schwarz_CMYK.pdf>pdfTeX warning (ext4): destination with the same ident
-ifier (name{Navigation1}) has been already used, duplicate ignored
+ <use IN_schwarz_CMYK.pdf> [17
+
+]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+
+<use IN_schwarz_CMYK.pdf> [18
+
+]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf> [19
+
+]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+
+<use IN_schwarz_CMYK.pdf> [20
+
+]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf> [21
+
+]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+
+<use IN_schwarz_CMYK.pdf> [22
+
+]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf> [23
+
+]
+<diagrams/simple_use_case.pdf, id=1246, 1164.0786pt x 594.08301pt>
+File: diagrams/simple_use_case.pdf Graphic file (type pdf)
+
+<use diagrams/simple_use_case.pdf>
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf> [24
+
+ <./diagrams/simple_use_case.pdf>]
+<../latex/diagrams/flow_of_events.pdf, id=1301, 430.40799pt x 374.19798pt>
+File: ../latex/diagrams/flow_of_events.pdf Graphic file (type pdf)
+
+<use ../latex/diagrams/flow_of_events.pdf>
+Overfull \vbox (14.96346pt too high) detected at line 228
+ []
+
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+<use IN_schwarz_CMYK.pdf> [25
+
+ <../latex/diagrams/flow_of_events.pdf>]
+<diagrams/action_interaction_simple.pdf, id=1713, 694.24727pt x 256.07481pt>
+File: diagrams/action_interaction_simple.pdf Graphic file (type pdf)
+
+<use diagrams/action_interaction_simple.pdf>
+<diagrams/action_interaction_complex.pdf, id=1715, 825.12991pt x 565.90112pt>
+File: diagrams/action_interaction_complex.pdf Graphic file (type pdf)
+
+<use diagrams/action_interaction_complex.pdf>
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf>
+[26
+
+ <./diagrams/action_interaction_simple.pdf>]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf>
+[27
+
+
+ <./diagrams/action_interaction_complex.pdf>]
+<../latex/diagrams/problem_detection_process.pdf, id=1808, 739.05481pt x 420.61
+94pt>
+File: ../latex/diagrams/problem_detection_process.pdf Graphic file (type pdf)
+ <use ../latex/diagrams/problem_detection_process.pdf>
+Overfull \vbox (2.20726pt too high) detected at line 254
+ []
+
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+<use IN_schwarz_CMYK.pdf> [28
+
+ <../latex/diagrams/problem_detection_process.pdf>]
+<diagrams/subsystem_decomposition_new.pdf, id=1848, 1422.63783pt x 477.06932pt>
+File: diagrams/subsystem_decomposition_new.pdf Graphic file (type pdf)
+<use diagrams/subsystem_decomposition_new.pdf>
+<diagrams/pedagent_concrete.pdf, id=1850, 882.03539pt x 413.17938pt>
+File: diagrams/pedagent_concrete.pdf Graphic file (type pdf)
+
+<use diagrams/pedagent_concrete.pdf>
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf> [29
+
+ <./diagrams/subsystem_decomposition_new.pdf>]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf> [30
+
+
+ <./diagrams/pedagent_concrete.pdf>]
+<../latex/diagrams/global_control_flow_new.pdf, id=1951, 711.458pt x 253.748pt>
+File: ../latex/diagrams/global_control_flow_new.pdf Graphic file (type pdf)
+<use ../latex/diagrams/global_control_flow_new.pdf>
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf>
+[31
+
+ <../latex/diagrams/global_control_flow_new.pdf>]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf>
+[32
+
+] <images/OLPC_LOGO.png, id=2446, 559.8516pt x 210.0648pt>
+File: images/OLPC_LOGO.png Graphic file (type png)
+
+<use images/OLPC_LOGO.png>
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf> [33
+
+ <./images/OLPC_LOGO.png (PNG copy)>] <images/Contributetree1.jpg, id=2477, 501
+.875pt x 401.5pt>
+File: images/Contributetree1.jpg Graphic file (type jpg)
+
+<use images/Contributetree1.jpg>
+Overfull \vbox (3.36925pt too high) detected at line 333
+ []
+
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+<use IN_schwarz_CMYK.pdf> [34
+
+ <./images/Contributetree1.jpg>]
+File: images/Contributetree1.jpg Graphic file (type jpg)
+
+<use images/Contributetree1.jpg>
+Overfull \vbox (3.36925pt too high) detected at line 333
+ []
+
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+<use IN_schwarz_CMYK.pdf> [35
+
+]
+File: images/Contributetree1.jpg Graphic file (type jpg)
+ <use images/Contributetree1.jpg>
+Overfull \vbox (3.36925pt too high) detected at line 333
+ []
+
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+<use IN_schwarz_CMYK.pdf> [36
+
+]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf> [37
+
+]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+
+<use IN_schwarz_CMYK.pdf> [38
+
+] (./main.bbl)
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf>pdfTeX warning (ext4): destination with the same iden
+tifier (name{Navigation1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.165 \end{frame}
+l.360 \end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (n
 ame{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.165 \end{frame}
+l.360 \end{frame}
                   [1
 
-]
+ </usr/share/texmf/tex/latex/beamer/base/art/beamericonarticle.pdf>]
 File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
  <use IN_schwarz_CMYK.pdf>pdfTeX warning (ext4): destination with the same iden
 tifier (name{Navigation2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.170 \end{frame}
+l.360 \end{frame}
                  pdfTeX warning (ext4): destination with the same identifier (n
 ame{page.2}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.170 \end{frame}
+l.360 \end{frame}
                   [2
+
+
+]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf>pdfTeX warning (ext4): destination with the same iden
+tifier (name{Navigation3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.360 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.3}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.360 \end{frame}
+                  [3
+
+
+]
+<../latex/diagrams/use_cases_overall.pdf, id=2658, 1389.6088pt x 1435.7383pt>
+File: ../latex/diagrams/use_cases_overall.pdf Graphic file (type pdf)
+
+<use ../latex/diagrams/use_cases_overall.pdf>
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf>pdfTeX warning (ext4): destination with the same iden
+tifier (name{Navigation4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.369 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.4}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.369 \end{frame}
+                  [4
+
+ <../latex/diagrams/use_cases_overall.pdf>]
+<../latex/diagrams/InteractionPatterns.pdf, id=2682, 775.69798pt x 414.34799pt>
+File: ../latex/diagrams/InteractionPatterns.pdf Graphic file (type pdf)
+<use ../latex/diagrams/InteractionPatterns.pdf>
+<../latex/diagrams/problemDetection.pdf, id=2684, 679.33798pt x 478.58798pt>
+File: ../latex/diagrams/problemDetection.pdf Graphic file (type pdf)
+
+<use ../latex/diagrams/problemDetection.pdf>
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf>pdfTeX warning (ext4): destination with the same iden
+tifier (name{Navigation5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.383 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.5}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.383 \end{frame}
+                  [5
+
+ <../latex/diagrams/InteractionPatterns.pdf>]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+
+<use IN_schwarz_CMYK.pdf>pdfTeX warning (ext4): destination with the same ident
+ifier (name{Navigation6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.383 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.383 \end{frame}
+                  [6
+
+
+ <../latex/diagrams/problemDetection.pdf>]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+
+<use IN_schwarz_CMYK.pdf>pdfTeX warning (ext4): destination with the same ident
+ifier (name{Navigation7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.403 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.7}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.403 \end{frame}
+                  [7
+
+]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf>pdfTeX warning (ext4): destination with the same iden
+tifier (name{Navigation8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.403 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.8}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.403 \end{frame}
+                  [8
+
+]
+<diagrams/activity_motivation.pdf, id=3524, 738.91641pt x 470.37502pt>
+File: diagrams/activity_motivation.pdf Graphic file (type pdf)
+
+<use diagrams/activity_motivation.pdf>
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf>pdfTeX warning (ext4): destination with the same iden
+tifier (name{Navigation9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.411 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.9}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.411 \end{frame}
+                  [9
+
+ <./diagrams/activity_motivation.pdf>]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+
+<use IN_schwarz_CMYK.pdf>pdfTeX warning (ext4): destination with the same ident
+ifier (name{Navigation10}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.420 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.10}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.420 \end{frame}
+                  [10
+
+]
+File: IN_schwarz_CMYK.pdf Graphic file (type pdf)
+ <use IN_schwarz_CMYK.pdf>pdfTeX warning (ext4): destination with the same iden
+tifier (name{Navigation11}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.429 \end{frame}
+                 pdfTeX warning (ext4): destination with the same identifier (n
+ame{page.11}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.429 \end{frame}
+                  [11
 
 ]
 \tf@nav=\write5
@@ -1225,22 +1588,28 @@ l.170 \end{frame}
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.0pt have occurred.
 
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
  ) 
 Here is how much of TeX's memory you used:
- 15427 strings out of 495061
- 267369 string characters out of 1182621
- 369723 words of memory out of 3000000
- 18183 multiletter control sequences out of 15000+50000
- 11038 words of font info for 41 fonts, out of 3000000 for 9000
+ 15784 strings out of 495061
+ 275907 string characters out of 1182621
+ 375719 words of memory out of 3000000
+ 18439 multiletter control sequences out of 15000+50000
+ 11638 words of font info for 43 fonts, out of 3000000 for 9000
  28 hyphenation exceptions out of 8191
- 45i,19n,56p,308b,734s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 45i,19n,57p,308b,740s stack positions out of 5000i,500n,10000p,200000b,50000s
 </usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/sha
 re/texmf-texlive/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/share/texmf-te
-xlive/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/
-type1/public/amsfonts/cm/cmtt8.pfb>
-Output written on main.pdf (19 pages, 143298 bytes).
+xlive/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/share/texmf-texlive/fonts
+/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texmf-texlive/fonts/type1/publi
+c/amsfonts/cm/cmssbx10.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfont
+s/cm/cmssi8.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmsy10
+.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on main.pdf (50 pages, 2617158 bytes).
 PDF statistics:
- 542 PDF objects out of 1000 (max. 8388607)
- 47 named destinations out of 1000 (max. 500000)
- 147 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3614 PDF objects out of 4296 (max. 8388607)
+ 113 named destinations out of 1000 (max. 500000)
+ 297 words of extra memory for PDF output out of 10000 (max. 10000000)
 
